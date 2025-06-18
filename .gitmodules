@@ -1,0 +1,9 @@
+[submodule "Thirdparty/RCF_Pytorch_Updated"]
+	path = Thirdparty/RCF_Pytorch_Updated
+	url = https://github.com/frankthecr0c/RCF_Pytorch_Updated.git
+[submodule "Thirdparty/Zero-DCE"]
+	path = Thirdparty/Zero-DCE
+	url = https://github.com/frankthecr0c/Zero-DCE.git
+[submodule "Thirdparty/segment-anything"]
+	path = Thirdparty/segment-anything
+	url = https://github.com/frankthecr0c/segment-anything.git
