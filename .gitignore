@@ -132,7 +132,7 @@ dmypy.json
 .pyre/
 
 # Data and Datasets
-/Data/*
+Data/*
 
 # Out results
-/out/*
+out/*
