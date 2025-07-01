@@ -7,3 +7,6 @@
 [submodule "Thirdparty/segment-anything"]
 	path = Thirdparty/segment-anything
 	url = https://github.com/frankthecr0c/segment-anything.git
+[submodule "Thirdparty/active_light"]
+	path = Thirdparty/active_light
+	url = https://github.com/isarlab-department-engineering/active_light.git
